@@ -1,1 +1,20 @@
+organism_id
+scientific_name
+common_name
+taxonomic_group
+habitat
+geographic_range
+ecological_role
+notable_adaptations
+notes
 
+voorbeeld:
+ORG-001
+Mytilus edulis
+Blue mussel
+Bivalvia
+Intertidal/coastal
+North Atlantic
+Filter feeder
+Underwater adhesion
+...
